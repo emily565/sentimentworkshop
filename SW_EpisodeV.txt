@@ -1,4 +1,4 @@
-"line" "character" "dialogue"
+"character" "dialogue"
 "1" "LUKE" "Echo Three to Echo Seven. Han, old buddy, do you  read me?"
 "2" "HAN" "Loud and clear, kid. What's up?"
 "3" "LUKE" "Well, I finished my circle. I don't pick up any  life readings."
