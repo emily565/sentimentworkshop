@@ -1,7 +1,7 @@
 # Sentiment Anaylsis Workshop!
 
 ## Step 1
-Click here to get access to the Colab: <a href: https://colab.research.google.com/drive/1AusPYfmMsDMO9plZHRkVLW5jNEfRkyMK?usp=sharing>link</a>
+Click here to get access to the Colab: [link](https://colab.research.google.com/drive/1AusPYfmMsDMO9plZHRkVLW5jNEfRkyMK?usp=sharing)
 
 ## Step 2
 Make your own copy of the workbook!
